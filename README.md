@@ -69,7 +69,7 @@ MysteryBoxes is a full-stack e-commerce application with a React frontend and a 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/AnasHaidar-95/Myst.git
+    git clone https://github.com/AnasHaidar-95/MysteryBoxes.git
     ```
 2.  **Install backend dependencies:**
     ```bash
